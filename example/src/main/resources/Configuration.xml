@@ -2,6 +2,7 @@
 	<!ENTITY HelloWorld SYSTEM "ConfigurationHelloWorld.xml">
 	<!ENTITY HelloWorlds SYSTEM "ConfigurationHelloWorlds.xml">
 	<!ENTITY GUIFeedback SYSTEM "ConfigurationSaveGUI3.0Feedback.xml">
+	<!ENTITY EersteAdapter SYSTEM "ConfigurationEersteAdapter.xml">
 ]>
 <configuration name="Ibis4Example">
 	<jmsRealms>
@@ -11,4 +12,5 @@
 	&HelloWorld;
 	&HelloWorlds;
 	&GUIFeedback;
+	&EersteAdapter;
 </configuration>
