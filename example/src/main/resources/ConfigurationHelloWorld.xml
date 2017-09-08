@@ -16,7 +16,7 @@
 			<pipe
 				name="HelloWorld"
 				className="nl.nn.adapterframework.pipes.FixedResult"
-				returnString="Test"
+				returnString="Test2"
 				>
 				<forward name="success" path="EXIT"/>
 			</pipe>
